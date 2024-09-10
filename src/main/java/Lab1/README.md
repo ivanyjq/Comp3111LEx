@@ -4,4 +4,4 @@
 
 This project consists of two functional classes ("power" and "factorial")
 
-![img_1.png](img_1.png)
+![img_1.png](../../../../img_1.png)
